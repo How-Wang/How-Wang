@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<!--
 **How-Wang/How-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="center"> 
+  Visitors Count<br>
+  <img src="https://profile-counter.glitch.me/How-Wang/count.svg" />
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +15,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<p align="center"> 
+  <img src="http://github-readme-streak-stats.vercel.com?user=How-Wang&theme=gruvbox&date_format=%5BY.%5Dn.j" />
+</p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=How-Wang&show_icons=true&locale=en"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=How-Wang&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
