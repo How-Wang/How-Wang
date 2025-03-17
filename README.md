@@ -18,7 +18,7 @@
       height="24"
   />
 </a>
-<a href ="https://www.linkedin.com/in/%E6%B5%A9-%E7%8E%8B-1a71201ba/">
+<a href ="https://www.linkedin.com/in/wanghao23/">
   <img
       src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       height="24"
